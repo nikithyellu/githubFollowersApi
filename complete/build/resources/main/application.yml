@@ -1,0 +1,9 @@
+server:
+  port: 9090
+
+graphql:
+  authorization: Basic bmlraXRoLXllbGx1OlN1cGVyY29tUDEh
+  url: https://api.github.com/
+  noOfFollowers: 5
+
+#pass Basic Auth to access Github Api's

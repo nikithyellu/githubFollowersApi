@@ -1,0 +1,8 @@
+server:
+  port: 9090
+
+graphql:
+  authorization: token **********************
+  url: https://api.github.com/
+  noOfFollowers: 5
+

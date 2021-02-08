@@ -1,0 +1,23 @@
+server:
+  port: 8181
+
+#TODO: figure out why I need this here and in bootstrap.yml
+spring:
+  application:
+    name: testLatticeApp
+
+ribbon:
+  ServerListRefreshInterval: 1000
+
+endpoints:
+  health:
+    sensitive: false
+  restart:
+    enabled: true
+  shutdown:
+    enabled: true
+
+graphql:
+  authorization: Basic bmlraXRoLXllbGx1OlN1cGVyY29tUDEh
+  url: https://api.github.com/
+  noOfFollowers: 5

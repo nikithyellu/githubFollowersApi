@@ -1,0 +1,12 @@
+/Users/Nikith/Desktop/gs-spring-boot-docker12/complete/src/main/java/com/followers/Application.java
+/Users/Nikith/Desktop/gs-spring-boot-docker12/complete/src/main/java/com/followers/api/FollowersApi.java
+/Users/Nikith/Desktop/gs-spring-boot-docker12/complete/src/main/java/com/followers/api/model/GraphQlResponseData.java
+/Users/Nikith/Desktop/gs-spring-boot-docker12/complete/src/main/java/com/followers/exception/InternalServerError.java
+/Users/Nikith/Desktop/gs-spring-boot-docker12/complete/src/main/java/com/followers/api/model/GraphQlResponseFollowers.java
+/Users/Nikith/Desktop/gs-spring-boot-docker12/complete/src/main/java/com/followers/service/UserFollowersService.java
+/Users/Nikith/Desktop/gs-spring-boot-docker12/complete/src/main/java/com/followers/api/model/GraphQlResponse.java
+/Users/Nikith/Desktop/gs-spring-boot-docker12/complete/src/main/java/com/followers/exception/NotFound.java
+/Users/Nikith/Desktop/gs-spring-boot-docker12/complete/src/main/java/com/followers/exception/BadRequest.java
+/Users/Nikith/Desktop/gs-spring-boot-docker12/complete/src/main/java/com/followers/api/model/GraphQlResponseUser.java
+/Users/Nikith/Desktop/gs-spring-boot-docker12/complete/src/main/java/com/followers/api/model/User.java
+/Users/Nikith/Desktop/gs-spring-boot-docker12/complete/src/main/java/com/followers/api/model/GraphQlResponseEdges.java
